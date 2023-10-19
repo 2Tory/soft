@@ -1,5 +1,5 @@
 from datetime import datetime
-
+# 만 나이 계산기
 # 사용자로부터 생년월일 입력 받기
 birth_date = input("생년월일을 입력하세요 (예: 2000-01-01): ")
 
